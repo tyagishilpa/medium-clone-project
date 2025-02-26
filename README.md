@@ -19,11 +19,17 @@ Database: PostgreSQL
 Authentication: JWT
 
 **Features**
+
 Responsive user interface.
+
 Serverless backend for low-latency responses and scalability.
+
 Robust data validation and type safety.
+
 Static type-checking and improved developer productivity.
+
 Seamless database interactions and performance optimization.
+
 Secure authentication mechanism.
 
 Common Module Deployment
