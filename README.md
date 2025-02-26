@@ -32,5 +32,6 @@ Seamless database interactions and performance optimization.
 
 Secure authentication mechanism.
 
-Common Module Deployment
+**Common Module Deployment**
+
 A common module has been implemented to export Zod validation and type inference to both the backend and frontend, ensuring consistency and reusability of validation logic across the application.
